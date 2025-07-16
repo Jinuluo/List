@@ -1,2 +1,3 @@
-# 自用的list，目前新增硅谷云单独的Emby的域名
-# MetaAi.list 自己新增meta.com，可以控制和AI走一样路线
+<h1>list说明</h1>
+<p>MetaAI.list：自行添加了meta的域名，但还是解决不了账号登录之后被锁区的问题</p>
+<p>design.list：自己用于设计的网站，想单独走设置的规则，并适用于每个人</p>
