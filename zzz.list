@@ -1,12 +1,12 @@
-# 针对自己设计工作定向的域名维护,所以并不适用每个人
+# 针对绝区零国际服直连
 
-DOMAIN-SUFFIX,figma.com
-DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,behance.net
-DOMAIN-SUFFIX,dribbble.com
-DOMAIN-SUFFIX,pinimg.com
-DOMAIN-SUFFIX,artstation.com
-DOMAIN-SUFFIX,spline.design
-DOMAIN-SUFFIX,yesicon.app
-DOMAIN-SUFFIX,Blender.org
-DOMAIN-SUFFIX,comfy.org
+DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
+DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,nap-sdk-os.hoyoverse.com
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+DOMAIN-SUFFIX,webstatic.hoyoverse.com
+DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
+DOMAIN-SUFFIX,abtest-api-data-sg.hoyoverse.com
