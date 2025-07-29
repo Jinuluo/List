@@ -1,0 +1,13 @@
+# 针对绝区零国际服直连
+
+DOMAIN-SUFFIX,zzz-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
+DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,sdk-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,nap-sdk-os.hoyoverse.com
+DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+DOMAIN-SUFFIX,webstatic.hoyoverse.com
+DOMAIN-SUFFIX,sdk-os-static.hoyoverse.com
+DOMAIN-SUFFIX,abtest-api-data-sg.hoyoverse.com
+DOMAIN-SUFFIX,sg-announcement-api.hoyoverse.com
